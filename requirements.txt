@@ -2,3 +2,6 @@ langchain
 numpy
 slack-sdk 
 slack-bolt
+pymongo
+fastapi
+"uvicorn[standard]"
