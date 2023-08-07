@@ -1,2 +1,4 @@
 langchain
 numpy
+slack-sdk 
+slack-bolt
