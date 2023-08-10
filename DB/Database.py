@@ -40,6 +40,22 @@ class MongoDBHandler(Database):
         except Exception as e:
             print("Failed to insert document:", e)
 
+    def insert_documents(self, collection_name, data):
+        try:
+            collection = self.db[collection_name]
+            inserted_documents = collection.insert_many(data)
+            print('Inserted documents IDs:', inserted_documents.inserted_ids)
+        except Exception as e:
+            print("Failed to insert documents:", e)
+
+    def load_all_documents(self, collection_name):
+        try:
+            collection = self.db[collection_name]
+            documents = collection.find()
+            return documents
+        except Exception as e:
+            print("Failed to load documents:", e)
+
 
     def disconnect(self):
         try:
