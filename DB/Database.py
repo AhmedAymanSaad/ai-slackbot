@@ -5,11 +5,11 @@ from dotenv import find_dotenv, load_dotenv
 
 class Database(ABC):
     @abstractmethod
-    def connect(self):
+    def Connect(self):
         pass
 
     @abstractmethod
-    def disconnect(self):
+    def Disconnect(self):
         pass
 
 
@@ -23,7 +23,7 @@ class MongoDBHandler(Database):
         self.client = None
         self.db = None
 
-    def connect(self):
+    def Connect(self):
         try:
             connection_string = f'mongodb+srv://{self.username}:{self.password}@{self.cluster_url}/{self.database_name}'
             self.client = MongoClient(connection_string)
@@ -32,7 +32,7 @@ class MongoDBHandler(Database):
         except Exception as e:
             print("Failed to connect to MongoDB:", e)
 
-    def insert_document(self, collection_name, data):
+    def InsertDocument(self, collection_name, data):
         try:
             collection = self.db[collection_name]
             inserted_document = collection.insert_one(data)
@@ -57,7 +57,7 @@ class MongoDBHandler(Database):
             print("Failed to load documents:", e)
 
 
-    def disconnect(self):
+    def Disconnect(self):
         try:
             if self.client:
                 self.client.close()
