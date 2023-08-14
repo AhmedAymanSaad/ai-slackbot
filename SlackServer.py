@@ -4,7 +4,7 @@ from Classes.SlackClass import SlackClass
 
 Server = FastAPI()
 
-SlackApp = SlackClass()
+slackApp = SlackClass()
 
 @SlackApp.app.event("app_mention")
 def HandleMentions(body, say):
@@ -18,10 +18,10 @@ def HandleMentions(body, say):
     """
     text = body["event"]["text"]
 
-    mention = f"<@{SLACK_BOT_USER_ID}>"
+    mention = f"<@{slackApp.SLACK_BOT_USER_ID}>"
     text = text.replace(mention, "").strip()
 
-    response = SlackApp.MyFunction(text)
+    response = slackApp.MyFunction(text)
     say(response)
 
 @Server.post("/slack/events")
@@ -33,4 +33,5 @@ async def SlackEvents():
     Returns:
         Response: The result of handling the request.
     """
-    return SlackApp.handler.handle(request)
+    request = await request.body()
+    return slackApp.handler.handle(request)

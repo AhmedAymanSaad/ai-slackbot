@@ -1,5 +1,6 @@
 langchain
 numpy
+pandas
 slack-sdk 
 slack-bolt
 pymongo
