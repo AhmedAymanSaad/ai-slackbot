@@ -26,8 +26,9 @@ class MongoDBHandler(Database):
     def Connect(self):
         try:
             connection_string = f'mongodb+srv://{self.username}:{self.password}@{self.cluster_url}/{self.database_name}'
-            self.client = MongoClient(connection_string)
+            self.client = MongoClient(connection_string, connect = True)
             self.db = self.client[self.database_name]
+            self.client.admin.command('ping')
             print("Connected to MongoDB cluster successfully!")
         except Exception as e:
             print("Failed to connect to MongoDB:", e)
@@ -51,7 +52,7 @@ class MongoDBHandler(Database):
     def load_all_documents(self, collection_name):
         try:
             collection = self.db[collection_name]
-            documents = collection.find()
+            documents = collection.find({})
             return documents
         except Exception as e:
             print("Failed to load documents:", e)
