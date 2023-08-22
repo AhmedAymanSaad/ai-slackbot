@@ -30,6 +30,7 @@ query= '''
       }
         nodes {
           id
+          title
           author {
             login
           }
@@ -89,6 +90,7 @@ response = requests.post("https://api.github.com/graphql", json={"query": query}
 response.raise_for_status()
 
 # parse the response
+print(response.json())
 data = response.json()["data"]
 discussions = data["repository"]["discussions"]["nodes"]
 total_count = data["repository"]["discussions"]["totalCount"]
@@ -119,12 +121,13 @@ while has_next_page:
 i=0
 with open('discussions_dataset.csv', mode='w', encoding='utf-8', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["Discussion_ID", "Comment_ID", "Author", "Category", "Markup_Body", "Body" ,"Created At", "Last Edited At"])
+    writer.writerow(["Discussion_ID", "Discussion_Title", "Comment_ID", "Author", "Category", "Markup_Body", "Body" ,"Created At", "Last Edited At"])
 
     for discussion in discussions:
         print(i)
         discussion_id = discussion["id"]
         dis_author = discussion["author"]["login"]
+        dis_title= discussion["title"]
         category = discussion["category"]["name"]
         dis_body = discussion["body"]
         dis_bodyText = discussion["bodyText"]
@@ -132,7 +135,7 @@ with open('discussions_dataset.csv', mode='w', encoding='utf-8', newline='') as 
         dis_last_edited_at = discussion["lastEditedAt"]
 
         # write the initial post as a comment with Comment ID set to NULL
-        writer.writerow([discussion_id, None, dis_author, category, dis_body, dis_bodyText, dis_created_at, dis_last_edited_at])
+        writer.writerow([discussion_id, dis_title ,None, dis_author, category, dis_body, dis_bodyText, dis_created_at, dis_last_edited_at])
 
         # iterate through all comments for the discussion
         has_next_page = discussion["comments"]["pageInfo"]["hasNextPage"]
@@ -147,7 +150,7 @@ with open('discussions_dataset.csv', mode='w', encoding='utf-8', newline='') as 
             comm_last_edited_at = comment_node["lastEditedAt"]
 
             # write the comment to the CSV file
-            writer.writerow([discussion_id, comment_id, comm_author, category, comm_body,comm_bodyText, comm_created_at, comm_last_edited_at])
+            writer.writerow([discussion_id, dis_title, comment_id, comm_author, category, comm_body,comm_bodyText, comm_created_at, comm_last_edited_at])
         i=i+1
 
  
