@@ -1,0 +1,3228 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mohamed Abdelrahman is finished for today. Away.",
+        "ts": "1690442183.781739",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "INB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mohamed Abdelrahman is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mohamed Abdelrahman Started to work now.",
+        "ts": "1690442187.584769",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mohamed Abdelrahman Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Bassem-Adel-Eg Started to work now.",
+        "ts": "1690442192.775289",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9Vv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bassem-Adel-Eg Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "abdulrahmannady Started to work now.",
+        "ts": "1690443567.696989",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ROi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "abdulrahmannady Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mahdy96 Started to work now.",
+        "ts": "1690443932.032079",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3TA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mahdy96 Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1690443932.032079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1690457691.983719",
+        "reply_users": [
+            "UUB64KVPC"
+        ],
+        "replies": [
+            {
+                "user": "UUB64KVPC",
+                "ts": "1690457691.983719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Dody Gunawinata is finished for today. Away.",
+        "ts": "1690445795.693639",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A8AE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dody Gunawinata is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Dody Gunawinata Started to work now.",
+        "ts": "1690445797.406479",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "10b3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dody Gunawinata Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Millania Sameh Milad Bebawy is finished for today. Away.",
+        "ts": "1690446312.004929",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6oxNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Millania Sameh Milad Bebawy is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Millania Sameh Milad Bebawy Started to work now.",
+        "ts": "1690446316.284589",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BT1x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Millania Sameh Milad Bebawy Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Rofaydaaa Started to work now.",
+        "ts": "1690446770.683599",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rofaydaaa Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mohamed Magdy Started to work now.",
+        "ts": "1690446799.451089",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kdl4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mohamed Magdy Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ahmed Saeed Started to work now.",
+        "ts": "1690447918.887049",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FSI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahmed Saeed Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1690447918.887049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1690456811.351729",
+        "reply_users": [
+            "U02HJ8E8H2L"
+        ],
+        "replies": [
+            {
+                "user": "U02HJ8E8H2L",
+                "ts": "1690456811.351729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares is finished for today. Away.",
+        "ts": "1690448176.952119",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pcn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares Started to work now.",
+        "ts": "1690448179.343689",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a7mnl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35c86655-17c9-4a64-bef7-a41f46e5804b",
+        "type": "message",
+        "text": "working",
+        "user": "UDDJGP5CL",
+        "ts": "1690448648.336699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pA5e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "037560a56aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-17\/5613165629632_037560a56aad6a6cde14_72.jpg",
+            "first_name": "Mohammed",
+            "real_name": "Mohammed Genidy Omera",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "mohammedo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690448648.336699",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1690616251.862209",
+        "reply_users": [
+            "UDDJGP5CL"
+        ],
+        "replies": [
+            {
+                "user": "UDDJGP5CL",
+                "ts": "1690473919.987099"
+            },
+            {
+                "user": "UDDJGP5CL",
+                "ts": "1690484995.707129"
+            },
+            {
+                "user": "UDDJGP5CL",
+                "ts": "1690616251.862209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ab016fd9-bca8-46c4-8ee2-fdcd181bf00c",
+        "type": "message",
+        "text": "Working",
+        "user": "UA6R38XA8",
+        "ts": "1690449453.977689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u5203",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "a3c1d7f64445",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-21\/5321281437360_a3c1d7f64445d4d77468_72.jpg",
+            "first_name": "Abdallah",
+            "real_name": "Abdallah Nasser",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "abdallahn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3de4a5f9-8979-4836-98fd-b0bf5d1d7da9",
+        "type": "message",
+        "text": "working",
+        "user": "U027JMN1NUR",
+        "ts": "1690451172.066329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "75c971f6e9cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-06\/2256745934769_75c971f6e9cded94ea12_72.png",
+            "first_name": "Yomna",
+            "real_name": "Yomna Ragab",
+            "display_name": "Yomna Ragab",
+            "team": "T03FVM0K8",
+            "name": "yomnat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23206928-faff-4322-8396-0d691078ec58",
+        "type": "message",
+        "text": "Working",
+        "user": "U046VDR7X60",
+        "ts": "1690451687.581849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7NK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "6a3f95ec79f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4275563263394_6a3f95ec79f5b2c0c896_72.png",
+            "first_name": "Ziad",
+            "real_name": "Ziad Hassanin",
+            "display_name": "Ziad Hassanin",
+            "team": "T03FVM0K8",
+            "name": "ziadh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Abdallah Nasser is finished for today. Away.",
+        "ts": "1690452159.030469",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zcI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Abdallah Nasser is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Abdallah Nasser Started to work now.",
+        "ts": "1690452162.880389",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Abdallah Nasser Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "abdulrahmanMs Started to work now.",
+        "ts": "1690453240.124249",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Av",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "abdulrahmanMs Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mennanabilh Started to work now.",
+        "ts": "1690453326.928769",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mennanabilh Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Amr Tealeb Started to work now.",
+        "ts": "1690453824.874389",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSsZI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amr Tealeb Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "BelalAbdelbasetHassan Started to work now.",
+        "ts": "1690453874.273569",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubQzg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BelalAbdelbasetHassan Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sherifr Started to work now.",
+        "ts": "1690453998.589049",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dBccf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sherifr Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37e87eb2-5a27-479c-8ce5-665af2177d8b",
+        "type": "message",
+        "text": "Electricity down",
+        "user": "UA6R38XA8",
+        "ts": "1690454022.082809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oJ2Ug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Electricity down"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "a3c1d7f64445",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-21\/5321281437360_a3c1d7f64445d4d77468_72.jpg",
+            "first_name": "Abdallah",
+            "real_name": "Abdallah Nasser",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "abdallahn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "yasminazcodes is back.",
+        "ts": "1690455537.329829",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yasminazcodes is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae26a169-c262-4332-ba83-db0b68d0d58b",
+        "type": "message",
+        "text": "off today",
+        "user": "U02D2MEC25P",
+        "ts": "1690456006.302799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "off today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "1d4862bf0bdd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-29\/2417515458823_1d4862bf0bdd35a6f339_72.jpg",
+            "first_name": "Yosef",
+            "real_name": "Yosef Mohammed",
+            "display_name": "Yosef Mohammed",
+            "team": "T03FVM0K8",
+            "name": "yosefm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mariam Essam Ghanem is back.",
+        "ts": "1690456240.623059",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/4LMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mariam Essam Ghanem is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mariam Essam Ghanem is finished for today. Away.",
+        "ts": "1690456243.158089",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6\/ZW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mariam Essam Ghanem is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mariam Essam Ghanem Started to work now.",
+        "ts": "1690456260.615069",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0VH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mariam Essam Ghanem Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "AhmadGadallah2000 Started to work now.",
+        "ts": "1690456288.996219",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3+Gqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AhmadGadallah2000 Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1690456288.996219",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1690456338.491739",
+        "reply_users": [
+            "U027PSQ8ZUK"
+        ],
+        "replies": [
+            {
+                "user": "U027PSQ8ZUK",
+                "ts": "1690456338.491739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "E69CD4CF-C553-4D5C-8DDC-55E69E84A310",
+        "type": "message",
+        "text": "Electricity was out all day",
+        "user": "U027PSQ8ZUK",
+        "ts": "1690456338.491739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GVKLh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Electricity was out all day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "9c0b97dae87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-11\/2285724744848_9c0b97dae87ec533fb16_72.jpg",
+            "first_name": "Ahmad",
+            "real_name": "Ahmad Gadallah",
+            "display_name": "Ahmad Gadallah",
+            "team": "T03FVM0K8",
+            "name": "ahmadg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690456288.996219"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Dina Maged Started to work now.",
+        "ts": "1690456737.561249",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WoU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dina Maged Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E8CFC9D7-F08B-4499-9AEF-F2B38770D3A5",
+        "type": "message",
+        "text": "Electricity down ",
+        "user": "U02HJ8E8H2L",
+        "ts": "1690456811.351729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Electricity down "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "5cb5d2e5cc5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2596448679872_5cb5d2e5cc5d8aaa3d7c_72.jpg",
+            "first_name": "Ahmed",
+            "real_name": "Ahmed Saeed",
+            "display_name": "Ahmed Saeed",
+            "team": "T03FVM0K8",
+            "name": "ahmeds",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690447918.887049"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Waleed Muhammed Started to work now.",
+        "ts": "1690457080.510309",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEXG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Waleed Muhammed Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "KarimMutwally Started to work now.",
+        "ts": "1690457269.113279",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rLr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KarimMutwally Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mohamed Magdy is away for sometime.",
+        "ts": "1690457478.203209",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mohamed Magdy is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ahmed Saeed is away for sometime.",
+        "ts": "1690457514.630289",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O5fs8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahmed Saeed is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9187afdc-d31a-4cb7-a29d-bb389657d489",
+        "type": "message",
+        "text": "Working offline because internet is down.",
+        "user": "UUB64KVPC",
+        "ts": "1690457691.983719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XEi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working offline because internet is down."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "c69af9add57e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/967417135602_c69af9add57ed4df0680_72.jpg",
+            "first_name": "Mahdi",
+            "real_name": "Mahdi Mahmoud",
+            "display_name": "mahdim",
+            "team": "T03FVM0K8",
+            "name": "mahdim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690443932.032079"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Yehia Tarek Ragab Started to work now.",
+        "ts": "1690458738.312629",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Awfsr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yehia Tarek Ragab Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Alaa Elsanteel Started to work now.",
+        "ts": "1690459310.670099",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXjP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alaa Elsanteel Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Omnya_Ellethy is back.",
+        "ts": "1690459870.948829",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=QB=S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omnya_Ellethy is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Omnya_Ellethy is finished for today. Away.",
+        "ts": "1690459873.929159",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3gt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omnya_Ellethy is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Omnya_Ellethy Started to work now.",
+        "ts": "1690459885.485099",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WnHRx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omnya_Ellethy Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1690459885.485099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1690459937.462009",
+        "reply_users": [
+            "U05E4Q5CJJY"
+        ],
+        "replies": [
+            {
+                "user": "U05E4Q5CJJY",
+                "ts": "1690459937.462009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2a5aaddf-ff8b-4fbc-9980-465645d42670",
+        "type": "message",
+        "text": "started working since 2 PM",
+        "user": "U05E4Q5CJJY",
+        "ts": "1690459937.462009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "started working since 2 PM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "2f63d926ae2e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-01\/5539325828064_2f63d926ae2e1d41064c_72.png",
+            "first_name": "Omnya",
+            "real_name": "Omnya Ellethy",
+            "display_name": "Omnya Ellethy",
+            "team": "T03FVM0K8",
+            "name": "omnya.ellethy2000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690459885.485099"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sandra Hany is finished for today. Away.",
+        "ts": "1690460058.571029",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yg8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sandra Hany is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sandra Hany Started to work now.",
+        "ts": "1690460060.653169",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uKW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sandra Hany Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Yomna Ragab is away for sometime.",
+        "ts": "1690460199.083619",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DhLor",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yomna Ragab is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Hannah Hatem Started to work now.",
+        "ts": "1690460380.845849",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BMFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hannah Hatem Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Nada Started to work now.",
+        "ts": "1690460473.436019",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "alr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nada Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1690460473.436019",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1690480405.162989",
+        "reply_users": [
+            "U048RH7A2BY"
+        ],
+        "replies": [
+            {
+                "user": "U048RH7A2BY",
+                "ts": "1690480405.162989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Dina Maged is away for sometime.",
+        "ts": "1690461571.613709",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hGJb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dina Maged is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Khaled El-Lethy Started to work now.",
+        "ts": "1690461800.060329",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RqIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Khaled El-Lethy Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Nouran M is finished for today. Away.",
+        "ts": "1690462627.671699",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TMYB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nouran M is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "yasminazcodes is away for sometime.",
+        "ts": "1690463411.440969",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yasminazcodes is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Yomna Ragab is back.",
+        "ts": "1690464104.647999",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4VAQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yomna Ragab is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Reham Abdelraheem Started to work now.",
+        "ts": "1690464293.280119",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KXCM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reham Abdelraheem Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Yehia Tarek Ragab is away for sometime.",
+        "ts": "1690464464.458149",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5eywE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yehia Tarek Ragab is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Millania Sameh Milad Bebawy is finished for today. Away.",
+        "ts": "1690466129.889949",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t5u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Millania Sameh Milad Bebawy is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Marwan Mostafa is away for sometime.",
+        "ts": "1690467161.588209",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gP1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marwan Mostafa is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "KarimMutwally is away for sometime.",
+        "ts": "1690468510.204089",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3dSEJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KarimMutwally is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ahmed Saeed is back.",
+        "ts": "1690468959.395959",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahmed Saeed is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mazen Amr Started to work now.",
+        "ts": "1690470174.804579",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ge9Fb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mazen Amr Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mohamed Sameer is finished for today. Away.",
+        "ts": "1690470559.281119",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=KE2E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mohamed Sameer is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mahdy96 is finished for today. Away.",
+        "ts": "1690470947.034949",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jjIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mahdy96 is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mohamed Magdy is back.",
+        "ts": "1690470955.125139",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcqaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mohamed Magdy is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mennanabilh is finished for today. Away.",
+        "ts": "1690471168.121319",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M4JRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mennanabilh is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Omnya_Ellethy is away for sometime.",
+        "ts": "1690471257.008449",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LVi7J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omnya_Ellethy is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mohamed Abdelrahman is finished for today. Away.",
+        "ts": "1690471265.279489",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0jjnB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mohamed Abdelrahman is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Bassem-Adel-Eg is finished for today. Away.",
+        "ts": "1690471965.276989",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=FZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bassem-Adel-Eg is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Yomna Ragab is finished for today. Away.",
+        "ts": "1690471966.632799",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OfFpz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yomna Ragab is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Abdallah Nasser is finished for today. Away.",
+        "ts": "1690472033.844589",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOgrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Abdallah Nasser is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "KarimMutwally is back.",
+        "ts": "1690472921.587849",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aVzL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KarimMutwally is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mariam Essam Ghanem is away for sometime.",
+        "ts": "1690473857.521829",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2=A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mariam Essam Ghanem is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "503aa723-d6de-4cb0-885d-79f0634b82f4",
+        "type": "message",
+        "text": "away 2hrs",
+        "user": "UDDJGP5CL",
+        "ts": "1690473919.987099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ER42v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "away 2hrs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "037560a56aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-17\/5613165629632_037560a56aad6a6cde14_72.jpg",
+            "first_name": "Mohammed",
+            "real_name": "Mohammed Genidy Omera",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "mohammedo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690448648.336699",
+        "parent_user_id": "UDDJGP5CL"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Alaa Elsanteel is away for sometime.",
+        "ts": "1690474805.060949",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcn5O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alaa Elsanteel is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mariam Essam Ghanem is back.",
+        "ts": "1690475407.671289",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m1Jb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mariam Essam Ghanem is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Reham Abdelraheem is away for sometime.",
+        "ts": "1690475717.128099",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CRd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reham Abdelraheem is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "yasminazcodes is back.",
+        "ts": "1690477538.019869",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WdSb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yasminazcodes is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "ziadmmh is finished for today. Away.",
+        "ts": "1690477702.426929",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Cg2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ziadmmh is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Hannah Hatem is finished for today. Away.",
+        "ts": "1690477944.917289",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5RUqJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hannah Hatem is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Khaled El-Lethy is finished for today. Away.",
+        "ts": "1690478205.865699",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZKQRi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Khaled El-Lethy is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Alaa Elsanteel is back.",
+        "ts": "1690478393.785899",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OP6O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alaa Elsanteel is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "KarimMutwally is finished for today. Away.",
+        "ts": "1690479146.936329",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D4\/c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KarimMutwally is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Reham Abdelraheem is back.",
+        "ts": "1690479429.891889",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DzRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reham Abdelraheem is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ahmed Saeed is finished for today. Away.",
+        "ts": "1690480048.480019",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DX\/mv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahmed Saeed is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BDF00210-26C7-47C9-9D49-9B6B929943B1",
+        "type": "message",
+        "text": "Away electricity out",
+        "user": "U048RH7A2BY",
+        "ts": "1690480405.162989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Away electricity out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "5ceb541b48ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-11-09\/4340180836054_5ceb541b48cef1f4e525_72.png",
+            "first_name": "Nada",
+            "real_name": "Nada Tarek",
+            "display_name": "Nada Tarek",
+            "team": "T03FVM0K8",
+            "name": "nadat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690460473.436019"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "yasminazcodes is away for sometime.",
+        "ts": "1690481479.224589",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AeMU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yasminazcodes is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mahy is off today.",
+        "ts": "1690481979.278399",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dvrmB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mahy is off today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "abdulrahmannady is finished for today. Away.",
+        "ts": "1690482394.119859",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxhW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "abdulrahmannady is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "BelalAbdelbasetHassan is finished for today. Away.",
+        "ts": "1690484496.019759",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i69jY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BelalAbdelbasetHassan is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f817a1ff-e19c-4395-a137-6f049b60bece",
+        "type": "message",
+        "text": "back",
+        "user": "UDDJGP5CL",
+        "ts": "1690484995.707129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1isJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "037560a56aad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-17\/5613165629632_037560a56aad6a6cde14_72.jpg",
+            "first_name": "Mohammed",
+            "real_name": "Mohammed Genidy Omera",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "mohammedo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690448648.336699",
+        "parent_user_id": "UDDJGP5CL"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "AhmadGadallah2000 is finished for today. Away.",
+        "ts": "1690485995.992449",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91OI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AhmadGadallah2000 is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares Started to work now.",
+        "ts": "1690486867.726159",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/qj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares is away for sometime.",
+        "ts": "1690486871.698919",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wY93a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares is back.",
+        "ts": "1690486873.361919",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Z3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares is finished for today. Away.",
+        "ts": "1690486874.618969",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=XSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares Started to work now.",
+        "ts": "1690486877.157789",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EHR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares is away for sometime.",
+        "ts": "1690486879.551339",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9pZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares is back.",
+        "ts": "1690486880.804729",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OWUf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares is finished for today. Away.",
+        "ts": "1690486882.584629",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AW+9V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Fares Started to work now.",
+        "ts": "1690486883.980779",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jh+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fares Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Pierre Amir Bassily is finished for today. Away.",
+        "ts": "1690487381.736639",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pierre Amir Bassily is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sherifr is finished for today. Away.",
+        "ts": "1690489013.907149",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UhpV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sherifr is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "yasminazcodes is back.",
+        "ts": "1690489575.457949",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yasminazcodes is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mariam Essam Ghanem is finished for today. Away.",
+        "ts": "1690489787.321639",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2yEN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mariam Essam Ghanem is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mohamed Magdy is finished for today. Away.",
+        "ts": "1690489901.231769",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSNC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mohamed Magdy is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "YoussefDarwishh is finished for today. Away.",
+        "ts": "1690494297.477939",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTAH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YoussefDarwishh is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Alaa Elsanteel is finished for today. Away.",
+        "ts": "1690497757.375129",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iw5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alaa Elsanteel is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "yasminazcodes is away for sometime.",
+        "ts": "1690499383.164589",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ifc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yasminazcodes is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Waleed Muhammed is finished for today. Away.",
+        "ts": "1690499704.348679",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OXYi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Waleed Muhammed is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Nada is finished for today. Away.",
+        "ts": "1690501257.734679",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tewd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nada is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Amr Tealeb is finished for today. Away.",
+        "ts": "1690502120.156869",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2\/3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amr Tealeb is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "yasminazcodes is back.",
+        "ts": "1690504095.948939",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DuG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yasminazcodes is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "yasminazcodes is finished for today. Away.",
+        "ts": "1690507458.793599",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4JMS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yasminazcodes is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Mazen Amr is finished for today. Away.",
+        "ts": "1690507579.706899",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nB35c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mazen Amr is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Salma Ahmed Mahfouz is back.",
+        "ts": "1690511095.638329",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44Kd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salma Ahmed Mahfouz is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Salma Ahmed Mahfouz is finished for today. Away.",
+        "ts": "1690523723.666379",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/ZQ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salma Ahmed Mahfouz is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
