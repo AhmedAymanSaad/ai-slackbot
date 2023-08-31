@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "C6BC84B0-7441-4439-837C-7832BFE443F0",
+        "type": "message",
+        "text": "Payroll is being processed. Thanks a lot for your patience :pray: :dollar: :dancer: :chart_with_upwards_trend: ",
+        "user": "U03FVBQTR",
+        "ts": "1690962259.806869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Payroll is being processed. Thanks a lot for your patience "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dollar",
+                                "unicode": "1f4b5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancer",
+                                "unicode": "1f483"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "chart_with_upwards_trend",
+                                "unicode": "1f4c8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01JHGNLXTP",
+                    "U1LF0P0LB",
+                    "UA6R38XA8",
+                    "U048RH7A2BY",
+                    "U034X8927KL",
+                    "UDDJGP5CL",
+                    "U027C3PDVQC"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

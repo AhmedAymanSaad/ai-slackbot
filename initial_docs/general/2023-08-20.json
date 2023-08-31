@@ -1,0 +1,184 @@
+[
+    {
+        "client_msg_id": "a9f33e95-d070-4771-8342-d1bd85880ab8",
+        "type": "message",
+        "text": "Yup. It's really nice in the Summer. The place is empty and the air is clean.",
+        "user": "U03FVM0KA",
+        "ts": "1692519227.003749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6jH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup. It's really nice in the Summer. The place is empty and the air is clean."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692448798.125489",
+        "parent_user_id": "U03FVM0KA"
+    },
+    {
+        "client_msg_id": "f8271ae7-cd02-45da-8378-92fe392b684b",
+        "type": "message",
+        "text": "wrong channel <@U05EF0GJ1L1>",
+        "user": "U03FVM0KA",
+        "ts": "1692520467.333879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LqBC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wrong channel "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05EF0GJ1L1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692453529.670919",
+        "parent_user_id": "U05EF0GJ1L1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05EF0GJ1L1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28770322-5E3D-4C24-8216-1A48A51E291A",
+        "type": "message",
+        "text": "Not too hot ? ",
+        "user": "U02P5PUDENL",
+        "ts": "1692528452.058329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/\/If",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not too hot ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "d70abf884c2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-30\/2774693826662_d70abf884c2f70031520_72.jpg",
+            "first_name": "Fares",
+            "real_name": "Fares",
+            "display_name": "Fares",
+            "team": "T03FVM0K8",
+            "name": "fares",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692448798.125489",
+        "parent_user_id": "U03FVM0KA"
+    },
+    {
+        "client_msg_id": "eda8f3f1-8715-4645-a54b-471e2a821d45",
+        "type": "message",
+        "text": "Cooler than Cairo. Remember this place is full of trees.",
+        "user": "U03FVM0KA",
+        "ts": "1692599894.583719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=4RO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cooler than Cairo. Remember this place is full of trees."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692448798.125489",
+        "parent_user_id": "U03FVM0KA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02P5PUDENL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

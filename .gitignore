@@ -3,4 +3,5 @@
 /Lib
 /Scripts
 /pyvenv.cfg
-
+.env
+ai-env/

@@ -1,0 +1,368 @@
+[
+    {
+        "client_msg_id": "46f810c8-abb0-4806-b05a-a12f16899031",
+        "type": "message",
+        "text": "working",
+        "user": "U05EF0GJ1L1",
+        "ts": "1690466272.358609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2A0E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "a35e8d11ef4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-03\/5543224487760_a35e8d11ef4ea78eb113_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher Matar",
+            "display_name": "Taher Matar",
+            "team": "T03FVM0K8",
+            "name": "tahrmtr45",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ae1a151c-dc2c-4d44-85b7-32df25655f29",
+        "type": "message",
+        "text": "Sunday 2023\/07\/30 2PM  <https:\/\/us05web.zoom.us\/j\/83637857817?pwd=13SjHvzkApqD9vZoYF5Cv5PLWbhMKa.1>",
+        "user": "U03FVM0KA",
+        "ts": "1690470832.863369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M6HRr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sunday 2023\/07\/30 2PM  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/83637857817?pwd=13SjHvzkApqD9vZoYF5Cv5PLWbhMKa.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03FVM0KA",
+            "ts": "1690703201.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/meet.google.com\/",
+                "service_icon": "http:\/\/fonts.gstatic.com\/s\/i\/productlogos\/meet_2020q4\/v1\/web-24dp\/logo_meet_2020q4_color_1x_web_24dp.png",
+                "thumb_url": "https:\/\/fonts.gstatic.com\/s\/i\/productlogos\/meet_2020q4\/v1\/web-96dp\/logo_meet_2020q4_color_2x_web_96dp.png",
+                "thumb_width": 192,
+                "thumb_height": 192,
+                "id": 1,
+                "original_url": "https:\/\/meet.google.com\/",
+                "fallback": "Meet",
+                "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+                "title": "Meet",
+                "title_link": "https:\/\/meet.google.com\/",
+                "service_name": "meet.google.com"
+            }
+        ],
+        "thread_ts": "1690470832.863369",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1690703188.866789",
+        "reply_users": [
+            "U03FVM0KA",
+            "U027C3PDVQC"
+        ],
+        "replies": [
+            {
+                "user": "U03FVM0KA",
+                "ts": "1690470948.014949"
+            },
+            {
+                "user": "U027C3PDVQC",
+                "ts": "1690471062.968029"
+            },
+            {
+                "user": "U03FVM0KA",
+                "ts": "1690471133.410089"
+            },
+            {
+                "user": "U03FVM0KA",
+                "ts": "1690703188.866789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1690703188.866789",
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "UA6R38XA8",
+                    "UUB64KVPC",
+                    "U02D7GP9FRS",
+                    "UDDJGP5CL",
+                    "U02P5PUDENL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U01JHGNLXTP",
+                    "UGUP6SQUT",
+                    "UDDJGP5CL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "confetti_ball",
+                "users": [
+                    "UDDJGP5CL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cb1d298-a4ef-4cf8-b06b-42038dd74363",
+        "type": "message",
+        "text": "I will cover\n\n• The Brand New Blazor SSR\n• Blazor Section\n• Mix and Match between SSR, WASM, Server and Streaming",
+        "user": "U03FVM0KA",
+        "ts": "1690470948.014949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YvPg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will cover\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The Brand New Blazor SSR"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Blazor Section"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mix and Match between SSR, WASM, Server and Streaming"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690470832.863369",
+        "parent_user_id": "U03FVM0KA",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U027C3PDVQC",
+                    "U046VDR7X60",
+                    "UA6R38XA8",
+                    "U01JHGNLXTP",
+                    "U02767Y6QHY",
+                    "UGUP6SQUT",
+                    "U027JMN1NUR"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e539689-0747-43d7-a902-2bb398bb6feb",
+        "type": "message",
+        "text": "Is it going to be recorded?",
+        "user": "U027C3PDVQC",
+        "ts": "1690471062.968029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1b5Sj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it going to be recorded?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "b2432500ca87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-23\/2978662366199_b2432500ca87d891ba17_72.jpg",
+            "first_name": "Mohamed",
+            "real_name": "Mohamed Abdelrahman",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "maboelkassem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690470832.863369",
+        "parent_user_id": "U03FVM0KA"
+    },
+    {
+        "client_msg_id": "154b55cb-ff02-4bcd-803e-9dc3e4088d80",
+        "type": "message",
+        "text": "yes",
+        "user": "U03FVM0KA",
+        "ts": "1690471133.410089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WD0i4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1690470832.863369",
+        "parent_user_id": "U03FVM0KA"
+    },
+    {
+        "client_msg_id": "ee40d0ac-926b-4fbb-ad8f-4632263a21a1",
+        "type": "message",
+        "text": "working",
+        "user": "U05DVMHBGF8",
+        "ts": "1690511114.750769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z4U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "2e9a0e8d7894",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-17\/5589280126579_2e9a0e8d789482aacf2a_72.jpg",
+            "first_name": "Salma",
+            "real_name": "Salma Ahmed",
+            "display_name": "Salma Ahmed",
+            "team": "T03FVM0K8",
+            "name": "salma.ahmed01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

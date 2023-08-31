@@ -1,0 +1,1431 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Salma Ahmed Mahfouz is away for sometime.",
+        "ts": "1691133209.217359",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tKZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salma Ahmed Mahfouz is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19be8166-0e95-4fca-973a-8f1c22b36058",
+        "type": "message",
+        "text": "working",
+        "user": "U05EF0GJ1L1",
+        "ts": "1691139309.611469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qzsk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "a35e8d11ef4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-03\/5543224487760_a35e8d11ef4ea78eb113_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher Matar",
+            "display_name": "Taher Matar",
+            "team": "T03FVM0K8",
+            "name": "tahrmtr45",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Dody Gunawinata is finished for today. Away.",
+        "ts": "1691146170.277569",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DIAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dody Gunawinata is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Dody Gunawinata Started to work now.",
+        "ts": "1691146172.665439",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QTH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dody Gunawinata Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "YoussefDarwishh is finished for today. Away.",
+        "ts": "1691146272.949999",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PISc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YoussefDarwishh is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "YoussefDarwishh Started to work now.",
+        "ts": "1691146335.131969",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OfPA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YoussefDarwishh Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Nada Started to work now.",
+        "ts": "1691147513.964749",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B=GBg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nada Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sherifr Started to work now.",
+        "ts": "1691148107.164359",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tKfY=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sherifr Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Alaa Elsanteel is finished for today. Away.",
+        "ts": "1691148324.953859",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vD18W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alaa Elsanteel is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Alaa Elsanteel Started to work now.",
+        "ts": "1691148327.125359",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HpP7H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alaa Elsanteel Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e507845-4ed2-4dce-8e3c-2377b83544dd",
+        "type": "message",
+        "text": "Working",
+        "user": "U05DMR335M5",
+        "ts": "1691152937.444649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v7rAV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "dac03a565684",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-29\/5487657812647_dac03a565684066ebf62_72.png",
+            "first_name": "Rofayda",
+            "real_name": "Rofayda Bassem",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "rofaydabassem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d113dfda-684f-4ab7-92bc-481aa6d5297a",
+        "type": "message",
+        "text": "<!channel> hello, I can see that almost everyone forget to end their day. Any thoughts on how the app can help you with this?",
+        "user": "U03FWCWLL",
+        "ts": "1691157093.474799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TkICe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hello, I can see that almost everyone forget to end their day. Any thoughts on how the app can help you with this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "ab9a763ac584",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-06\/645293626450_ab9a763ac58462796ac7_72.jpg",
+            "first_name": "Sherif",
+            "real_name": "Sherif",
+            "display_name": "sherifr",
+            "team": "T03FVM0K8",
+            "name": "sherifr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "reply_count": 18,
+        "reply_users_count": 10,
+        "latest_reply": "1691337730.393959",
+        "reply_users": [
+            "UD7FEGEF8",
+            "U0436S8PYJH",
+            "U027V0C9KEY",
+            "UA6R38XA8",
+            "U03FWCWLL",
+            "U03FVBQTR",
+            "U05DVMH0CSJ",
+            "UDDJGP5CL",
+            "U02P5PUDENL",
+            "U01J6S6PP8E"
+        ],
+        "replies": [
+            {
+                "user": "UD7FEGEF8",
+                "ts": "1691157187.639129"
+            },
+            {
+                "user": "U0436S8PYJH",
+                "ts": "1691157357.840019"
+            },
+            {
+                "user": "U027V0C9KEY",
+                "ts": "1691157533.052669"
+            },
+            {
+                "user": "U0436S8PYJH",
+                "ts": "1691158653.144679"
+            },
+            {
+                "user": "UA6R38XA8",
+                "ts": "1691160245.993129"
+            },
+            {
+                "user": "U03FWCWLL",
+                "ts": "1691164712.152199"
+            },
+            {
+                "user": "U03FWCWLL",
+                "ts": "1691164779.383699"
+            },
+            {
+                "user": "U03FWCWLL",
+                "ts": "1691164853.921999"
+            },
+            {
+                "user": "UD7FEGEF8",
+                "ts": "1691164964.389579"
+            },
+            {
+                "user": "U03FWCWLL",
+                "ts": "1691164987.586239"
+            },
+            {
+                "user": "UD7FEGEF8",
+                "ts": "1691165002.143159"
+            },
+            {
+                "user": "U03FVBQTR",
+                "ts": "1691171592.326529"
+            },
+            {
+                "user": "U05DVMH0CSJ",
+                "ts": "1691193772.801909"
+            },
+            {
+                "user": "UDDJGP5CL",
+                "ts": "1691247128.073269"
+            },
+            {
+                "user": "UDDJGP5CL",
+                "ts": "1691247376.627289"
+            },
+            {
+                "user": "U02P5PUDENL",
+                "ts": "1691256155.913429"
+            },
+            {
+                "user": "U02P5PUDENL",
+                "ts": "1691256459.368709"
+            },
+            {
+                "user": "U01J6S6PP8E",
+                "ts": "1691337730.393959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03FVBQTR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Salma Ahmed Mahfouz is back.",
+        "ts": "1691157166.848479",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MG5u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salma Ahmed Mahfouz is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe233419-b780-4319-a652-2a37407a8f08",
+        "type": "message",
+        "text": "Working since 1:30 PM",
+        "user": "U05DVMHBGF8",
+        "ts": "1691157184.707349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5THN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Working since 1:30 PM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "2e9a0e8d7894",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-17\/5589280126579_2e9a0e8d789482aacf2a_72.jpg",
+            "first_name": "Salma",
+            "real_name": "Salma Ahmed",
+            "display_name": "Salma Ahmed",
+            "team": "T03FVM0K8",
+            "name": "salma.ahmed01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "067f8b42-c92b-4e9b-b046-10d43df49d0e",
+        "type": "message",
+        "text": "Reminder upon closing the browser's tab\/window",
+        "user": "UD7FEGEF8",
+        "ts": "1691157187.639129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eoQe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder upon closing the browser's tab\/window"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "g083a5c40ff6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5083a5c40ff6db7ba5ab35355b7b2066.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Reham Abdelraheem",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "rehama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "client_msg_id": "7D0BDC20-7371-4A8F-8D28-8B3C855ADE7F",
+        "type": "message",
+        "text": "You mean everyone forgot that yesterday or in general? <@U03FWCWLL> ",
+        "user": "U0436S8PYJH",
+        "ts": "1691157357.840019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You mean everyone forgot that yesterday or in general? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FWCWLL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "6f58dc50a77b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-11\/5073365626599_6f58dc50a77b0c617526_72.jpg",
+            "first_name": "Mohamed",
+            "real_name": "Mohamed Sameer",
+            "display_name": "Mohamed Sameer",
+            "team": "T03FVM0K8",
+            "name": "msameer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "client_msg_id": "f4252521-f66b-4ce9-a5a1-792fda76e581",
+        "type": "message",
+        "text": "Maybe check very two hours who is still working and send a push notification through the browser",
+        "user": "U027V0C9KEY",
+        "ts": "1691157533.052669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "atny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe check very two hours who is still working and send a push notification through the browser"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "b6b090a41de9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-10-26\/4273295914469_b6b090a41de93d3b28e0_72.jpg",
+            "first_name": "Amr",
+            "real_name": "Amr Mohamed Zaki",
+            "display_name": "Amr Zaki",
+            "team": "T03FVM0K8",
+            "name": "amrz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Salma Ahmed Mahfouz is away for sometime.",
+        "ts": "1691157609.203879",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lfpk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salma Ahmed Mahfouz is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D6D24A7B-DB63-4319-8147-A34983417F3B",
+        "type": "message",
+        "text": "I remember doing that yesterday but I can’t see the notification here in the channel, maybe that happened yesterday?\n<@U03FWCWLL> ",
+        "user": "U0436S8PYJH",
+        "ts": "1691158653.144679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bg5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I remember doing that yesterday but I can’t see the notification here in the channel, maybe that happened yesterday?\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FWCWLL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "6f58dc50a77b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-11\/5073365626599_6f58dc50a77b0c617526_72.jpg",
+            "first_name": "Mohamed",
+            "real_name": "Mohamed Sameer",
+            "display_name": "Mohamed Sameer",
+            "team": "T03FVM0K8",
+            "name": "msameer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "client_msg_id": "57f90234-ca00-427d-959a-c1b1344f9e35",
+        "type": "message",
+        "text": "We can make a calculation and set end automatic based on start time and away time\nalso we can push notification that you finished your working hours today if you want to extend or end the day if not responding you close the day.",
+        "user": "UA6R38XA8",
+        "ts": "1691160245.993129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t\/5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We can make a calculation and set end automatic based on start time and away time\nalso we can push notification that you finished your working hours today if you want to extend or end the day if not responding you close the day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "a3c1d7f64445",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-21\/5321281437360_a3c1d7f64445d4d77468_72.jpg",
+            "first_name": "Abdallah",
+            "real_name": "Abdallah Nasser",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "abdallahn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "client_msg_id": "809c521d-ac0a-4313-a0e1-ac027cd4a550",
+        "type": "message",
+        "text": "<@UD7FEGEF8> Can you explain more?",
+        "user": "U03FWCWLL",
+        "ts": "1691164712.152199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GqD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UD7FEGEF8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can you explain more?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "ab9a763ac584",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-06\/645293626450_ab9a763ac58462796ac7_72.jpg",
+            "first_name": "Sherif",
+            "real_name": "Sherif",
+            "display_name": "sherifr",
+            "team": "T03FVM0K8",
+            "name": "sherifr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "client_msg_id": "b346687c-b4b4-4add-9d33-7d5708629a7b",
+        "type": "message",
+        "text": "<@U0436S8PYJH> I don't know, you are the one who should know. I don't keep tabs on everybody. But it is a common pattern. People start the day with ending yesterday's shift and then start again.",
+        "user": "U03FWCWLL",
+        "ts": "1691164779.383699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sNn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0436S8PYJH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't know, you are the one who should know. I don't keep tabs on everybody. But it is a common pattern. People start the day with ending yesterday's shift and then start again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "ab9a763ac584",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-06\/645293626450_ab9a763ac58462796ac7_72.jpg",
+            "first_name": "Sherif",
+            "real_name": "Sherif",
+            "display_name": "sherifr",
+            "team": "T03FVM0K8",
+            "name": "sherifr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "client_msg_id": "f6bb17bb-c767-4a6e-b809-e52a7d502d69",
+        "type": "message",
+        "text": "<@UA6R38XA8> I don't think the automatic thing is viable. We can do the check and send a push notification, but I imagine this will be annoying.",
+        "user": "U03FWCWLL",
+        "ts": "1691164853.921999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H3\/7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UA6R38XA8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't think the automatic thing is viable. We can do the check and send a push notification, but I imagine this will be annoying."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "ab9a763ac584",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-06\/645293626450_ab9a763ac58462796ac7_72.jpg",
+            "first_name": "Sherif",
+            "real_name": "Sherif",
+            "display_name": "sherifr",
+            "team": "T03FVM0K8",
+            "name": "sherifr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "client_msg_id": "0bd93f16-8030-448f-b790-83536dec9a80",
+        "type": "message",
+        "text": "<@U03FWCWLL> you know those websites that when you're filling in a form and then you try to close your browser before you submit they show a confirmation message? I meant something like that",
+        "user": "UD7FEGEF8",
+        "ts": "1691164964.389579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1rJay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03FWCWLL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you know those websites that when you're filling in a form and then you try to close your browser before you submit they show a confirmation message? I meant something like that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "g083a5c40ff6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5083a5c40ff6db7ba5ab35355b7b2066.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Reham Abdelraheem",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "rehama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02P5PUDENL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c251a6d6-a27e-447e-aaaa-f7ddddcc5aa6",
+        "type": "message",
+        "text": "<@UD7FEGEF8> I got it now. Thanks.",
+        "user": "U03FWCWLL",
+        "ts": "1691164987.586239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LhiNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UD7FEGEF8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I got it now. Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "ab9a763ac584",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-06\/645293626450_ab9a763ac58462796ac7_72.jpg",
+            "first_name": "Sherif",
+            "real_name": "Sherif",
+            "display_name": "sherifr",
+            "team": "T03FVM0K8",
+            "name": "sherifr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "client_msg_id": "bc089e16-be12-42e3-aa99-7195a1556334",
+        "type": "message",
+        "text": "You're welcome",
+        "user": "UD7FEGEF8",
+        "ts": "1691165002.143159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RJb7g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're welcome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "g083a5c40ff6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5083a5c40ff6db7ba5ab35355b7b2066.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Reham Abdelraheem",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "rehama",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03FWCWLL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "merhanhesham Started to work now.",
+        "ts": "1691169900.441729",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W=H6p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merhanhesham Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8AB1437F-28F0-4376-B189-985AC284792A",
+        "type": "message",
+        "text": "For starters, we it shouldn’t broadcast if we know it’s the forgettable case…\nIm open for ideas to tackle this case",
+        "user": "U03FVBQTR",
+        "ts": "1691171592.326529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPcf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For starters, we it shouldn’t broadcast if we know "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the forgettable case"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIm open for ideas to tackle this case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1691157093.474799",
+        "parent_user_id": "U03FWCWLL"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sherifr is finished for today. Away.",
+        "ts": "1691177371.164919",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sherifr is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sherifr Started to work now.",
+        "ts": "1691177636.697059",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2h9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sherifr Started to work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Alaa Elsanteel is away for sometime.",
+        "ts": "1691179710.714139",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jfy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alaa Elsanteel is away for sometime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "YoussefDarwishh is finished for today. Away.",
+        "ts": "1691184123.409439",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DhGzT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YoussefDarwishh is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sherifr is finished for today. Away.",
+        "ts": "1691185610.717109",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g67",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sherifr is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Alaa Elsanteel is back.",
+        "ts": "1691186534.524209",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iCov",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alaa Elsanteel is back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I suggest to notify users at 11:59PM that the day is marked as done automatically, if user is still working he can start his day again and this will start the new day as time will be post 12:00 AM.",
+        "user": "U05DVMH0CSJ",
+        "ts": "1691193772.801909",
+        "thread_ts": "1691157093.474799",
+        "root": {
+            "client_msg_id": "d113dfda-684f-4ab7-92bc-481aa6d5297a",
+            "type": "message",
+            "text": "<!channel> hello, I can see that almost everyone forget to end their day. Any thoughts on how the app can help you with this?",
+            "user": "U03FWCWLL",
+            "ts": "1691157093.474799",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "TkICe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " hello, I can see that almost everyone forget to end their day. Any thoughts on how the app can help you with this?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T03FVM0K8",
+            "thread_ts": "1691157093.474799",
+            "reply_count": 18,
+            "reply_users_count": 10,
+            "latest_reply": "1691337730.393959",
+            "reply_users": [
+                "UD7FEGEF8",
+                "U0436S8PYJH",
+                "U027V0C9KEY",
+                "UA6R38XA8",
+                "U03FWCWLL",
+                "U03FVBQTR",
+                "U05DVMH0CSJ",
+                "UDDJGP5CL",
+                "U02P5PUDENL",
+                "U01J6S6PP8E"
+            ],
+            "replies": [
+                {
+                    "user": "UD7FEGEF8",
+                    "ts": "1691157187.639129"
+                },
+                {
+                    "user": "U0436S8PYJH",
+                    "ts": "1691157357.840019"
+                },
+                {
+                    "user": "U027V0C9KEY",
+                    "ts": "1691157533.052669"
+                },
+                {
+                    "user": "U0436S8PYJH",
+                    "ts": "1691158653.144679"
+                },
+                {
+                    "user": "UA6R38XA8",
+                    "ts": "1691160245.993129"
+                },
+                {
+                    "user": "U03FWCWLL",
+                    "ts": "1691164712.152199"
+                },
+                {
+                    "user": "U03FWCWLL",
+                    "ts": "1691164779.383699"
+                },
+                {
+                    "user": "U03FWCWLL",
+                    "ts": "1691164853.921999"
+                },
+                {
+                    "user": "UD7FEGEF8",
+                    "ts": "1691164964.389579"
+                },
+                {
+                    "user": "U03FWCWLL",
+                    "ts": "1691164987.586239"
+                },
+                {
+                    "user": "UD7FEGEF8",
+                    "ts": "1691165002.143159"
+                },
+                {
+                    "user": "U03FVBQTR",
+                    "ts": "1691171592.326529"
+                },
+                {
+                    "user": "U05DVMH0CSJ",
+                    "ts": "1691193772.801909"
+                },
+                {
+                    "user": "UDDJGP5CL",
+                    "ts": "1691247128.073269"
+                },
+                {
+                    "user": "UDDJGP5CL",
+                    "ts": "1691247376.627289"
+                },
+                {
+                    "user": "U02P5PUDENL",
+                    "ts": "1691256155.913429"
+                },
+                {
+                    "user": "U02P5PUDENL",
+                    "ts": "1691256459.368709"
+                },
+                {
+                    "user": "U01J6S6PP8E",
+                    "ts": "1691337730.393959"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suggest to notify users at 11:59PM that the day is marked as done automatically, if user is still working he can start his day again and this will start the new day as time will be post 12:00 AM."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a1129195-0ba4-4991-a55a-610a72d9d7e4"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "merhanhesham is finished for today. Away.",
+        "ts": "1691197179.507899",
+        "username": "Silverkey Hub",
+        "bot_id": "B05HFU026BH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cS1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merhanhesham is finished for today. Away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
