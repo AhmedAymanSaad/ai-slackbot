@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "02FC4C8E-D4DE-48E3-8F3E-139B3865CE6D",
+        "type": "message",
+        "text": "We had a brilliant demo today with EBC (Egyptian Banks Company)…\nEverything went well, thanks to <@U1LF0P0LB> &amp; <@UKPG594HH>  :ok_hand: :ok_hand:\n\nWe’re moving forward on a bigger assignment for InstaPay :crossed_fingers: :blush: ",
+        "user": "U03FVBQTR",
+        "ts": "1690829105.380339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We had a brilliant demo today with EBC (Egyptian Banks Company"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEverything went well"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1LF0P0LB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKPG594HH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "We’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " moving forward on a bigger assignment for InstaPay "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand_with_index_and_middle_fingers_crossed",
+                                "unicode": "1f91e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "UUB64KVPC",
+                    "U027JMN1NUR",
+                    "UASMV9W7N",
+                    "U01JHGNLXTP",
+                    "U02P5PUDENL",
+                    "U027C3PDVQC",
+                    "U03FWLKUN",
+                    "UKPG594HH",
+                    "U01A2EPV0BA",
+                    "U02D7GP9FRS",
+                    "U034X8927KL",
+                    "UD7FEGEF8",
+                    "UA6R38XA8",
+                    "U027V0C9KEY",
+                    "U048P9RUFHD",
+                    "U1LF0P0LB",
+                    "UGUP6SQUT",
+                    "UAWHVVB8X",
+                    "U0436S8PYJH",
+                    "UDDJGP5CL"
+                ],
+                "count": 20
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U02P5PUDENL",
+                    "U01JHGNLXTP",
+                    "U03FWLKUN",
+                    "UKPG594HH",
+                    "UD7FEGEF8",
+                    "UA6R38XA8",
+                    "U027V0C9KEY",
+                    "U1LF0P0LB",
+                    "UGUP6SQUT",
+                    "U050Z8GF28P",
+                    "U02HJ8E8H2L",
+                    "UDDJGP5CL"
+                ],
+                "count": 12
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U03FVM0KA",
+                    "UDDJGP5CL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

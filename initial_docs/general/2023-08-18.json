@@ -1,0 +1,132 @@
+[
+    {
+        "type": "message",
+        "text": "Ras elbar ",
+        "files": [
+            {
+                "id": "F05NGHPVCCC",
+                "created": 1692346874,
+                "timestamp": 1692346874,
+                "name": "IMG_0620.jpg",
+                "title": "IMG_0620",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02P5PUDENL",
+                "user_team": "T03FVM0K8",
+                "editable": false,
+                "size": 1070750,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FVM0K8-F05NGHPVCCC\/img_0620.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FVM0K8-F05NGHPVCCC\/download\/img_0620.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_64.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_80.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_360.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_480.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_160.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_720.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_800.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_960.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05NGHPVCCC-5d6123a5ef\/img_0620_1024.jpg?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADC+G+lBYd6oeY\/940m9z3NIC8SKC9USX9fzpNwA5YHvTAvGSk833FUfMWlJz0\/lQA7cgPKv+NAmTHAb8qaWPTNNJzStcG7Cswbu\/PtTCqH+\/wDlTuccfShHbOOevUUWDcaFHQbs\/SngMONj\/lUm4+ppQ7ZzuNAyA9cUUrfe\/AUlUjNij+H8TSL3+tKP4fxpF7\/WpZa2HMcAcUvcU1+gpfSgD\/\/Z",
+                "permalink": "https:\/\/silverkey.slack.com\/files\/U02P5PUDENL\/F05NGHPVCCC\/img_0620.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T03FVM0K8-F05NGHPVCCC-64b25c2a6f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02P5PUDENL",
+        "display_as_bot": false,
+        "ts": "1692346912.168199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A1Zj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ras elbar "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "C36B9C3F-C44F-4AB6-9FD1-FB9C5A86F282",
+        "thread_ts": "1692346912.168199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1692448305.016659",
+        "reply_users": [
+            "U03FVM0KA"
+        ],
+        "replies": [
+            {
+                "user": "U03FVM0KA",
+                "ts": "1692448305.016659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1692448305.016659",
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U027C3PDVQC",
+                    "U027V0C9KEY",
+                    "UDDJGP5CL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UUB64KVPC",
+                    "U027V0C9KEY",
+                    "UA6R38XA8",
+                    "U03FWLKUN",
+                    "U01JHGNLXTP",
+                    "U1LF0P0LB",
+                    "U034X8927KL",
+                    "U02HJ8E8H2L",
+                    "UDDJGP5CL"
+                ],
+                "count": 9
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U05FLR73T2S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
