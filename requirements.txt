@@ -5,4 +5,6 @@ slack-sdk
 slack-bolt
 pymongo
 fastapi
-"uvicorn[standard]"
+uvicorn
+flask
+python-dotenv

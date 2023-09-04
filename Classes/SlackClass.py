@@ -1,10 +1,14 @@
 import os
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
-from slack_bolt.adapter.flask import SlackRequestHandler
+from slack_bolt.adapter.fastapi import SlackRequestHandler
 from slack_bolt import App
 from dotenv import find_dotenv, load_dotenv
 from flask import Flask, request
+
+from LLM.LLaMaQuant import LLaMaQuant
+
+from DB.Vector import QdrantVector
 
 class SlackClass :
     def __init__(self):
@@ -16,7 +20,12 @@ class SlackClass :
         self.SLACK_BOT_USER_ID = os.environ["SLACK_BOT_USER_ID"]
         # Initialize the Slack app
         self.app = App(token=self.SLACK_BOT_TOKEN)
+        self.client = WebClient(token=self.SLACK_BOT_TOKEN)
         self.handler = SlackRequestHandler(self.app)
+        # Intialize the LLaMaQuant model
+        self.llm = LLaMaQuant()
+        # Initialize the vector database
+        self.vectorDB = QdrantVector()
         
     
 
@@ -46,5 +55,6 @@ class SlackClass :
         Returns:
             str: The processed text.
         """
-        response = text.upper()
+        context = self.vectorDB.getContext(text)
+        response = self.llm.respond(text,context)
         return response

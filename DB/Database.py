@@ -66,6 +66,4 @@ class MongoDBHandler(Database):
         except Exception as e:
             print("Error while disconnecting:", e)
 
-
-
     
