@@ -49,8 +49,19 @@ class QdrantVector(VectorDB):
     def Connect(self):
         self.qdrant_client = QdrantClient(host='localhost', port=6333, grpc_port=6333)
 
-    def getContext(self, question):
-        context = self.slack_users_vector_store.similarity_search(question, k=2)
+    def getContext(self, question, choice):
+        
+        # contextUsers = self.slack_users_vector_store.similarity_search(question, k=2)
+        # contextGithub = self.github_vector_store.similarity_search(question, k=2)
+        # contextAttendance = self.slack_attendance_vector_store.similarity_search(question, k=5)
+
+        if choice == 0:
+            context = self.slack_users_vector_store.similarity_search(question, k=2)
+        elif choice == 1:
+            context = self.github_vector_store.similarity_search(question, k=2)
+        elif choice == 2:
+            context = self.slack_attendance_vector_store.similarity_search(question, k=5)
+        
         return context
     
     def store(self, data):

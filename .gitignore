@@ -5,3 +5,5 @@
 /pyvenv.cfg
 .env
 ai-env/
+discussions_dataset.csv
+*/.env

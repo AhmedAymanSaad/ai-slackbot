@@ -43,7 +43,50 @@ class LLaMaQuant(LLM):
             print(output)
             return False
         
-    def respond(self, question, context):
+    def agent(self, question):
+        template = """[INST]
+        <<SYS>>
+        You are an internal choice agent, that takes in a question and decides which tool to use to answer it.
+        The tools that are provided are:
+        - GithubLogs:   This contains github disscussions where users write their daily logs and progress.
+                    Use this tool to answer questions about what users have done in their day.
+        - Attendance:   This contains attendance information (working/finished/away).
+                        Use this tool to answer questions about the duration and work hours.
+        - Users:    This contains information about the users such as names, emails, usernames.
+                    Use this tool to answer questions about the users and their information
+        - DailyReport,n:    This contains the markdown for the daily github discussion.
+                            n is the number of days ago, 0 is today, 1 is yesterday, etc.
+                            Use this tool to when asked to give the daily report.
+
+        You must always give your answer in one word which is the name of the tool that is best suited to answer the question.
+        Therefore you must always return one of the following words:
+        - GithubLogs
+        - Attendance
+        - Users
+        - DailyReport
+
+        Your can only answer using words from the previous list.
+
+        For example, if the question is "What did Ahmed do today?", the answer is "GithubLogs".
+        If the question is "When did Ahmed start working?", the answer is "Attendance".
+        If the question is "What is Ahmed's email?", the answer is "Users".
+        If the question is "How long did Ahmed work for on 10/7?", the answer is "Attendance".
+        If the question is "Give me the daily report.", the answer is "DailyReport,0".
+        If the question is "Give me the daily report from 2 days ago.", the answer is "DailyReport,2".
+        If the question is "Give me yesterday's daily report.", the answer is "DailyReport,1".
+
+
+        <</SYS>>
+        Question: {question}
+        [/INST]"""
+        prompt = PromptTemplate(template=template, input_variables=["question"])
+
+        llm_chain = LLMChain(prompt=prompt, llm=self.llm)
+        output = llm_chain({'question':question})
+        print(output)
+        return output["text"]
+        
+    def respond(self, question, context, contextType):
         template = """
         <<SYS>>
         You are Sil, a friendly chatbot assistant that responds conversationally to users' questions.
@@ -51,6 +94,18 @@ class LLaMaQuant(LLM):
         If you do not know the answer to a question say that you do not know, don't try to guess.
         You have context that you can use to answer questions, if the context is not relevant to the question, you can ignore it.
         All information in the context is public information, you can use it to answer questions.
+        Types of context:
+        - Github: This contains github disscussions where users write their daily logs and progress.
+        - Attendance: This contains attendance information for the users (when they started working/finished/away).
+        - Users: This contains information about the users (name, email, github username, slack username, etc).
+        - DailyReport: This contains the markdown for the daily github discussion.
+                        If you are asked to give the daily report, you must try to summarize what every user did and return it in presentable report like manner.
+
+
+        Context Type: 
+
+        {contextType}
+
         Context: 
         
         {context}
@@ -61,10 +116,10 @@ class LLaMaQuant(LLM):
         Question: {question}
 
         [/INST]"""
-        prompt = PromptTemplate(template=template, input_variables=["question", "context"])
+        prompt = PromptTemplate(template=template, input_variables=["question", "context", "contextType"])
 
         llm_chain = LLMChain(prompt=prompt, llm=self.llm)
-        output = llm_chain({'question':question,'context':context})
+        output = llm_chain({'question':question,'context':context, 'contextType':contextType})
         print(output)
         return output["text"]
         

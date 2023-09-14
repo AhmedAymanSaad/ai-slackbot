@@ -9,7 +9,7 @@ import csv
 load_dotenv()
 
 # get the access token from the environment variables
-access_token = os.environ["GITHUB_ACCESS_TOKEN"]
+access_token = "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"
 
 # using an access token
 auth = Auth.Token(str(access_token))
@@ -18,11 +18,14 @@ headers = {"Authorization": f"Bearer {access_token}"}
 # Public Web Github
 g = Github(auth=auth)
 
+day =0
+day = day + 1
+
 #GraphQL query to extract the discussions with their comments, replies, date, category and author from summer-2023 repo in silverkeytech
 query= '''
  {
     repository(owner: "silverkeytech", name: "summer-2023") {
-      discussions(first: 100, orderBy: {field: UPDATED_AT, direction: DESC}) {
+      discussions(first: {day}}, orderBy: {field: CREATED_AT, direction: DESC}) {
         totalCount
          pageInfo {
         hasNextPage
@@ -98,6 +101,7 @@ has_next_page = data["repository"]["discussions"]["pageInfo"]["hasNextPage"]
 end_cursor = data["repository"]["discussions"]["pageInfo"]["endCursor"]
 
 
+
 #The dataset could look like this:
 # Discussion ID    CommentID    Author      Category    Body     Created At     Last Edited At   
 # where the commentID can be null if its the first starting discussion
@@ -105,17 +109,18 @@ end_cursor = data["repository"]["discussions"]["pageInfo"]["endCursor"]
 
 
 # iterate through all pages of discussions
-while has_next_page:
-    # update query with new endCursor to get next page of data
-    query = query.replace(f'after: {end_cursor}', f'after: "{end_cursor}"')
-    response = requests.post("https://api.github.com/graphql", json={"query": query}, headers=headers)
-    response.raise_for_status()
+# while has_next_page:
+#     # update query with new endCursor to get next page of data
+#     query = query.replace(f'after: {end_cursor}', f'after: "{end_cursor}"')
+#     response = requests.post("https://api.github.com/graphql", json={"query": query}, headers=headers)
+#     response.raise_for_status()
+#     print(response.json())
     
-    # parse the response
-    data = response.json()["data"]
-    discussions += data["repository"]["discussions"]["nodes"]
-    has_next_page = data["repository"]["discussions"]["pageInfo"]["hasNextPage"]
-    end_cursor = data["repository"]["discussions"]["pageInfo"]["endCursor"]
+#     # parse the response
+#     data = response.json()["data"]
+#     discussions += data["repository"]["discussions"]["nodes"]
+#     has_next_page = data["repository"]["discussions"]["pageInfo"]["hasNextPage"]
+#     end_cursor = data["repository"]["discussions"]["pageInfo"]["endCursor"]
 
 # iterate through all discussions and their comments
 i=0

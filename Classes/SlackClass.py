@@ -55,6 +55,17 @@ class SlackClass :
         Returns:
             str: The processed text.
         """
+        contextChoice = self.llm.agent(text)
+        if contextChoice.lower().find("githublogs") != -1:
+            context = self.vectorDB.getContext(text,1)
+        elif contextChoice.lower().find("attendance") != -1:
+            context = self.vectorDB.getContext(text,2)
+        elif contextChoice.lower().find("users") != -1:
+            context = self.vectorDB.getContext(text,0)
+        elif contextChoice.lower().find("dailyreport") != -1:
+            #TODO: add github daily report extract function
+            pass
         context = self.vectorDB.getContext(text)
+        print(context)
         response = self.llm.respond(text,context)
         return response
