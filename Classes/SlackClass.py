@@ -6,9 +6,13 @@ from slack_bolt import App
 from dotenv import find_dotenv, load_dotenv
 from flask import Flask, request
 
+from langchain.callbacks.manager import tracing_v2_enabled
+
 from LLM.LLaMaQuant import LLaMaQuant
 
 from DB.Vector import QdrantVector
+
+from DataLogger.DataLogger import GithubDailyDiscussion
 
 class SlackClass :
     def __init__(self):
@@ -26,6 +30,8 @@ class SlackClass :
         self.llm = LLaMaQuant()
         # Initialize the vector database
         self.vectorDB = QdrantVector()
+
+        self.dailyDiscussion = GithubDailyDiscussion()
         
     
 
@@ -55,17 +61,25 @@ class SlackClass :
         Returns:
             str: The processed text.
         """
+        print("called agent")
         contextChoice = self.llm.agent(text)
+        contextType = ""
         if contextChoice.lower().find("githublogs") != -1:
+            contextType = "githublogs"
             context = self.vectorDB.getContext(text,1)
         elif contextChoice.lower().find("attendance") != -1:
+            contextType = "attendance"
             context = self.vectorDB.getContext(text,2)
         elif contextChoice.lower().find("users") != -1:
+            contextType = "users"
             context = self.vectorDB.getContext(text,0)
         elif contextChoice.lower().find("dailyreport") != -1:
-            #TODO: add github daily report extract function
-            pass
-        context = self.vectorDB.getContext(text)
+            contextType = "dailyreport"
+            day = contextChoice.split(",")[-1]
+            context = self.dailyDiscussion.getContext(day)
+        else:
+            context = ""
+        print(contextChoice)
         print(context)
-        response = self.llm.respond(text,context)
+        response = self.llm.respond(text,context,contextType)
         return response

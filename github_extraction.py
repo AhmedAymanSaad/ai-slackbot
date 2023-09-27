@@ -9,7 +9,7 @@ import csv
 load_dotenv()
 
 # get the access token from the environment variables
-access_token = "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"
+access_token = "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"
 
 # using an access token
 auth = Auth.Token(str(access_token))
@@ -18,14 +18,14 @@ headers = {"Authorization": f"Bearer {access_token}"}
 # Public Web Github
 g = Github(auth=auth)
 
-day =0
+day =1
 day = day + 1
 
 #GraphQL query to extract the discussions with their comments, replies, date, category and author from summer-2023 repo in silverkeytech
 query= '''
  {
     repository(owner: "silverkeytech", name: "summer-2023") {
-      discussions(first: {day}}, orderBy: {field: CREATED_AT, direction: DESC}) {
+      discussions(first: day, orderBy: {field: CREATED_AT, direction: DESC}) {
         totalCount
          pageInfo {
         hasNextPage
@@ -79,6 +79,9 @@ query= '''
   }
 '''
 
+# replace the day variable in the query with the day we want to extract
+query = query.replace("day", str(day))
+
 #getting current user
 current_user= g.get_user()
 print(current_user.name)
@@ -128,6 +131,7 @@ with open('discussions_dataset.csv', mode='w', encoding='utf-8', newline='') as 
     writer = csv.writer(file)
     writer.writerow(["Discussion_ID", "Discussion_Title", "Comment_ID", "Author", "Category", "Markup_Body", "Body" ,"Created At", "Last Edited At"])
 
+    discussions = [discussions[-1]]
     for discussion in discussions:
         print(i)
         discussion_id = discussion["id"]
@@ -157,6 +161,7 @@ with open('discussions_dataset.csv', mode='w', encoding='utf-8', newline='') as 
             # write the comment to the CSV file
             writer.writerow([discussion_id, dis_title, comment_id, comm_author, category, comm_body,comm_bodyText, comm_created_at, comm_last_edited_at])
         i=i+1
+        break
 
  
 

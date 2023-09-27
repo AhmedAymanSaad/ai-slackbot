@@ -6,7 +6,7 @@ from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.llms import LlamaCpp
 
 class LLaMaQuant(LLM):
-    modelPath = "/home/ahmedaymansaad/.cache/huggingface/hub/models--TheBloke--Llama-2-7B-Chat-GGML/snapshots/b616819cd4777514e3a2d9b8be69824aca8f5daf/llama-2-7b-chat.ggufv3.q4_K_M.bin"
+    modelPath = "/home/ahmedaymansaad/Code/LLModels/llama-2-7b-chat.ggufv3.q4_K_M.bin"
     nGpuLayers = 1
     nBatch = 512
     nCtx = 4096
@@ -99,8 +99,12 @@ class LLaMaQuant(LLM):
         - Attendance: This contains attendance information for the users (when they started working/finished/away).
         - Users: This contains information about the users (name, email, github username, slack username, etc).
         - DailyReport: This contains the markdown for the daily github discussion.
+                        Report requirments:
                         If you are asked to give the daily report, you must try to summarize what every user did and return it in presentable report like manner.
-
+                        First row contains the heading the of the discussion and the rest of the rows contain the users' logs.
+                        User name are in the authors column.
+                        Place your summary report inside a markdown block/blob.
+                        Remove any unnecessary white space.
 
         Context Type: 
 

@@ -8,3 +8,17 @@ fastapi
 uvicorn
 flask
 python-dotenv
+
+
+transformers
+accelerate
+einops
+xformers
+bitsandbytes
+llama-cpp-python
+sentence-transformers
+
+qdrant-client
+jq
+github
+pygithub
