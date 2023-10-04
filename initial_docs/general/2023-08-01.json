@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "e165c4b5-2fe4-486e-adca-84b593a3481b",
+        "type": "message",
+        "text": "Thursday: 2023\/08\/03 *2PM* - how to manage your project using GitHub Issues\n\n<https:\/\/us05web.zoom.us\/j\/85117877914?pwd=c0BW8zU2nltlZRNP19NWw3K8KjyQt8.1>",
+        "user": "U03FVM0KA",
+        "ts": "1690887235.589049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0lM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thursday: 2023\/08\/03 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2PM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - how to manage your project using GitHub Issues\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us05web.zoom.us\/j\/85117877914?pwd=c0BW8zU2nltlZRNP19NWw3K8KjyQt8.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U0436S8PYJH",
+                    "UDDJGP5CL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U01JHGNLXTP",
+                    "U027V0C9KEY",
+                    "UDDJGP5CL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ok_hand::skin-tone-2",
+                "users": [
+                    "U1LF0P0LB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95CE0AB5-DC0C-4E23-8FCA-D23DF85F049C",
+        "type": "message",
+        "text": "Hello everyone,\n\nFor the second consecutive month, bank processing of our payments is taking longer than expected.\n\nWe were waiting for a payment to hit our account yesterday, this didn’t happen.\nUp to the writing of these lines it didn’t hit it.\n\nMost probably we’ll wake up to find it in our account and process the payroll right away.\n\nI want to assure everyone that this should be the end of the tight cashflow we’ve been suffering from in the past month. \nThis is mainly caused by the slow deliveries  (on our\/client side) we’ve been suffering from since Ramadan, accordingly collection was impacted.\n\nThis month we should be collecting several payments for already delivered services\/milestones.\nISA it gets much better from here :chart_with_upwards_trend:\n\nTaher\n",
+        "user": "U03FVBQTR",
+        "ts": "1690917443.643089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone,\n\nFor the second consecutive month, bank processing of our payments is taking longer than expected.\n\nWe were waiting for a payment to hit our account yesterday, this "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " happen"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nUp to the writing of these lines it didn’t hit it.\n\nMost probably we’ll wake up to find it in our account and process the payroll right away.\n\nI want to assure everyone that this should be the end of the tight cashflow we’ve been suffering from in the past month. \nThis is mainly caused by the slow deliveries  (on our\/client side) we’ve been suffering from since Ramadan, accordingly collection was impacted.\n\nThis month we should be collecting several payments for already delivered services\/milestones.\nISA it gets much better from here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "chart_with_upwards_trend",
+                                "unicode": "1f4c8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTaher\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01JHGNLXTP",
+                    "U027V0C9KEY",
+                    "UA6R38XA8",
+                    "UDDJGP5CL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "metal",
+                "users": [
+                    "U01A2EPV0BA",
+                    "U027V0C9KEY",
+                    "U02P5PUDENL",
+                    "UA6R38XA8",
+                    "UDDJGP5CL"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1LF0P0LB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "64159054-7617-4a35-a7f9-85b79bfe2e87",
+        "type": "message",
+        "text": "Assignment for this week\n\n<https:\/\/docs.google.com\/spreadsheets\/d\/1j19GHx6PHLV1AOrfTzFJ_430t_L9Aw1P6DNZp_SZI8o\/edit#gid=0>",
+        "user": "U03FVM0KA",
+        "ts": "1693142827.631329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L1EK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Assignment for this week\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1j19GHx6PHLV1AOrfTzFJ_430t_L9Aw1P6DNZp_SZI8o\/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01A2EPV0BA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5d0006d-9a8d-452f-be94-add2fc15305c",
+        "type": "message",
+        "text": "Dear All,\nWe just processed our payroll (5 days in advance) in order to make up for the delay that happened in July…\nI would like to thank each and everyone for your patience in the past event. ISA we never face this again.\nHave a great day",
+        "user": "U03FVBQTR",
+        "ts": "1693145311.250669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ivr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear All,\nWe just processed our payroll (5 days in advance) in order to make up for the delay that happened in July…\nI would like to thank each and everyone for your patience in the past event. ISA we never face this again.\nHave a great day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UAWHVVB8X",
+                    "U01A2EPV0BA",
+                    "UKPG594HH",
+                    "UA6R38XA8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01JHGNLXTP",
+                    "UASMV9W7N",
+                    "UKPG594HH",
+                    "UA6R38XA8",
+                    "U027C3PDVQC",
+                    "U048P9RUFHD",
+                    "U034X8927KL",
+                    "U0436S8PYJH"
+                ],
+                "count": 8
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01JHGNLXTP",
+                    "U02HJ8E8H2L",
+                    "UKPG594HH",
+                    "UA6R38XA8",
+                    "U034X8927KL"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "5cd4d501-95ec-43a0-8201-19898833f347",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1j19GHx6PHLV1AOrfTzFJ_430t_L9Aw1P6DNZp_SZI8o\/edit#gid=0>",
+        "user": "U03FVM0KA",
+        "ts": "1691334926.330009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1j19GHx6PHLV1AOrfTzFJ_430t_L9Aw1P6DNZp_SZI8o\/edit#gid=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "11e081fa-b909-48bb-8571-fe68992ba63e",
+        "type": "message",
+        "text": "Team assignment for this week. For majority of us it is still the same.",
+        "user": "U03FVM0KA",
+        "ts": "1691334937.545019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9kA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Team assignment for this week. For majority of us it is still the same."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

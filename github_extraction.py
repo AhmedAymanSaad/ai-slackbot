@@ -9,7 +9,7 @@ import csv
 load_dotenv()
 
 # get the access token from the environment variables
-access_token = os.environ["GITHUB_ACCESS_TOKEN"]
+access_token = "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"
 
 # using an access token
 auth = Auth.Token(str(access_token))
@@ -18,11 +18,14 @@ headers = {"Authorization": f"Bearer {access_token}"}
 # Public Web Github
 g = Github(auth=auth)
 
+day =1
+day = day + 1
+
 #GraphQL query to extract the discussions with their comments, replies, date, category and author from summer-2023 repo in silverkeytech
 query= '''
  {
     repository(owner: "silverkeytech", name: "summer-2023") {
-      discussions(first: 100, orderBy: {field: UPDATED_AT, direction: DESC}) {
+      discussions(first: day, orderBy: {field: CREATED_AT, direction: DESC}) {
         totalCount
          pageInfo {
         hasNextPage
@@ -76,6 +79,9 @@ query= '''
   }
 '''
 
+# replace the day variable in the query with the day we want to extract
+query = query.replace("day", str(day))
+
 #getting current user
 current_user= g.get_user()
 print(current_user.name)
@@ -105,17 +111,18 @@ end_cursor = data["repository"]["discussions"]["pageInfo"]["endCursor"]
 
 
 # iterate through all pages of discussions
-while has_next_page:
-    # update query with new endCursor to get next page of data
-    query = query.replace(f'after: {end_cursor}', f'after: "{end_cursor}"')
-    response = requests.post("https://api.github.com/graphql", json={"query": query}, headers=headers)
-    response.raise_for_status()
+# while has_next_page:
+#     # update query with new endCursor to get next page of data
+#     query = query.replace(f'after: {end_cursor}', f'after: "{end_cursor}"')
+#     response = requests.post("https://api.github.com/graphql", json={"query": query}, headers=headers)
+#     response.raise_for_status()
+#     print(response.json())
     
-    # parse the response
-    data = response.json()["data"]
-    discussions += data["repository"]["discussions"]["nodes"]
-    has_next_page = data["repository"]["discussions"]["pageInfo"]["hasNextPage"]
-    end_cursor = data["repository"]["discussions"]["pageInfo"]["endCursor"]
+#     # parse the response
+#     data = response.json()["data"]
+#     discussions += data["repository"]["discussions"]["nodes"]
+#     has_next_page = data["repository"]["discussions"]["pageInfo"]["hasNextPage"]
+#     end_cursor = data["repository"]["discussions"]["pageInfo"]["endCursor"]
 
 # iterate through all discussions and their comments
 i=0
@@ -123,6 +130,7 @@ with open('discussions_dataset.csv', mode='w', encoding='utf-8', newline='') as 
     writer = csv.writer(file)
     writer.writerow(["Discussion_ID", "Discussion_Title", "Comment_ID", "Author", "Category", "Markup_Body", "Body" ,"Created At", "Last Edited At"])
 
+    discussions = [discussions[-1]]
     for discussion in discussions:
         print(i)
         discussion_id = discussion["id"]
@@ -152,6 +160,7 @@ with open('discussions_dataset.csv', mode='w', encoding='utf-8', newline='') as 
             # write the comment to the CSV file
             writer.writerow([discussion_id, dis_title, comment_id, comm_author, category, comm_body,comm_bodyText, comm_created_at, comm_last_edited_at])
         i=i+1
+        break
 
  
 

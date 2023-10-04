@@ -1,0 +1,143 @@
+[
+    {
+        "client_msg_id": "E62CCB4D-A568-4815-983D-943F58A2F423",
+        "type": "message",
+        "text": "I have internet issues, working on fixing it ",
+        "user": "U02HJ8E8H2L",
+        "ts": "1690282170.092279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x5EMi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have internet issues, working on fixing it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "5cb5d2e5cc5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2596448679872_5cb5d2e5cc5d8aaa3d7c_72.jpg",
+            "first_name": "Ahmed",
+            "real_name": "Ahmed Saeed",
+            "display_name": "Ahmed Saeed",
+            "team": "T03FVM0K8",
+            "name": "ahmeds",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b99ab26d-868b-47b0-b8cb-8bb6058c2b8e",
+        "type": "message",
+        "text": "SilverKey will have a demo for the EBC, the Central Bank of Egypt's fintech infrastructure company, this week. :rocket:",
+        "user": "U03FVM0KA",
+        "ts": "1690293440.969649",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sStAG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SilverKey will have a demo for the EBC, the Central Bank of Egypt's fintech infrastructure company, this week. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "3b5718eb9f45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-16\/5599264436273_3b5718eb9f45b3c2a13a_72.jpg",
+            "first_name": "dodyg",
+            "real_name": "dodyg",
+            "display_name": "",
+            "team": "T03FVM0K8",
+            "name": "dodyg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U046VDR7X60",
+                    "UASMV9W7N",
+                    "U03FVBQTR",
+                    "UAWHVVB8X",
+                    "U05DVMH0CSJ",
+                    "U027C3PDVQC",
+                    "U01JHGNLXTP",
+                    "U027V0C9KEY",
+                    "UA6R38XA8",
+                    "U027JMN1NUR",
+                    "U02P5PUDENL",
+                    "U048P9RUFHD",
+                    "U02D7GP9FRS",
+                    "U05E27TG3EF",
+                    "U05E4Q5CJJY",
+                    "U02767Y6QHY",
+                    "U1LF0P0LB",
+                    "UDDJGP5CL",
+                    "U0273QC9Q13",
+                    "UKPG594HH"
+                ],
+                "count": 20
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U01JHGNLXTP",
+                    "U027V0C9KEY",
+                    "U03FWLKUN",
+                    "UA6R38XA8",
+                    "U01A2EPV0BA",
+                    "U027JMN1NUR",
+                    "U02P5PUDENL",
+                    "U048P9RUFHD",
+                    "U01J6S6PP8E",
+                    "U05ES2TQ40Y",
+                    "UGUP6SQUT",
+                    "UDDJGP5CL",
+                    "U02HJ8E8H2L",
+                    "UKPG594HH"
+                ],
+                "count": 14
+            },
+            {
+                "name": "metal",
+                "users": [
+                    "U01JHGNLXTP",
+                    "U027V0C9KEY",
+                    "UA6R38XA8",
+                    "U027JMN1NUR",
+                    "UDDJGP5CL",
+                    "UKPG594HH"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

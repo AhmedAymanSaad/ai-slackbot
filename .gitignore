@@ -7,3 +7,12 @@ venv/
 
 # Ignore log files
 logs/
+/.venv
+*/__pycache__
+/Lib
+/Scripts
+/pyvenv.cfg
+.env
+ai-env/
+discussions_dataset.csv
+*/.env

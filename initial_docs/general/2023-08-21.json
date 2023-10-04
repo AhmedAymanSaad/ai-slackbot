@@ -1,0 +1,548 @@
+[
+    {
+        "type": "message",
+        "text": "Thank you message from GIZ for QMS efforts exerted by the team and all the effort done to finalize the phase before a hectic training that took place last week in 4 different governorates.\nQMS is a national effort with Ministry of Education, GIZ to manage the quality of education in technical schools all over Egypt.",
+        "files": [
+            {
+                "id": "F05PDQKRY3A",
+                "created": 1692614010,
+                "timestamp": 1692614010,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03FVBQTR",
+                "user_team": "T03FVM0K8",
+                "editable": false,
+                "size": 279758,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T03FVM0K8-F05PDQKRY3A\/image.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03FVM0K8-F05PDQKRY3A\/download\/image.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_64.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_80.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_360.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_360_w": 360,
+                "thumb_360_h": 187,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_480.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_480_w": 480,
+                "thumb_480_h": 250,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_160.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_720.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_720_w": 720,
+                "thumb_720_h": 374,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_800.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_800_w": 800,
+                "thumb_800_h": 416,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_960.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_960_w": 960,
+                "thumb_960_h": 499,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T03FVM0K8-F05PDQKRY3A-ac7586b852\/image_1024.png?t=xoxe-3539714654-5811278554788-5832538929008-03dc07771412e207820c9f7ae6fe1988",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 533,
+                "original_w": 1746,
+                "original_h": 908,
+                "thumb_tiny": "AwAYADDQ3E9Rt59aUc+v50OO9M496AJMe5\/OjHufzpny+9GF\/wAkUAPo60zC\/wCSKUAA8Z\/OgBXPGKZg+hpz\/fWn0ARYPoaXHs35VJRQAzn\/AGvyoGc\/xU+igD\/\/2Q==",
+                "permalink": "https:\/\/silverkey.slack.com\/files\/U03FVBQTR\/F05PDQKRY3A\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T03FVM0K8-F05PDQKRY3A-03bbd91931",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U03FVBQTR",
+        "display_as_bot": false,
+        "ts": "1692614091.544689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZKR+B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you message from GIZ for QMS efforts exerted by the team and all the effort done to finalize the phase before a hectic training that took place last week in 4 different governorates.\nQMS is a national effort with Ministry of Education, GIZ to manage the quality of education in technical schools all over Egypt."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U03FVBQTR",
+            "ts": "1692614578.000000"
+        },
+        "client_msg_id": "e788ead8-f38d-4f17-ad17-f9e96873dc81",
+        "thread_ts": "1692614091.544689",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1692708395.749389",
+        "reply_users": [
+            "U03FVBQTR",
+            "U03FVM0KA"
+        ],
+        "replies": [
+            {
+                "user": "U03FVBQTR",
+                "ts": "1692614117.840979"
+            },
+            {
+                "user": "U03FVBQTR",
+                "ts": "1692614144.687319"
+            },
+            {
+                "user": "U03FVBQTR",
+                "ts": "1692614193.849359"
+            },
+            {
+                "user": "U03FVBQTR",
+                "ts": "1692614494.311309"
+            },
+            {
+                "user": "U03FVBQTR",
+                "ts": "1692616955.252219"
+            },
+            {
+                "user": "U03FVM0KA",
+                "ts": "1692708389.303419"
+            },
+            {
+                "user": "U03FVM0KA",
+                "ts": "1692708395.749389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1692708395.749389",
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "UUB64KVPC",
+                    "U034X8927KL",
+                    "UASMV9W7N",
+                    "U02D7GP9FRS",
+                    "U027PSQ8ZUK",
+                    "U01A2EPV0BA",
+                    "U048RH7A2BY",
+                    "U03FWLKUN",
+                    "U027JMN1NUR",
+                    "U027C3PDVQC",
+                    "U1LF0P0LB",
+                    "UKPG594HH",
+                    "UA6R38XA8",
+                    "U01J6S6PP8E",
+                    "U01JHGNLXTP",
+                    "UDDJGP5CL",
+                    "U03FVM0KA"
+                ],
+                "count": 17
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UUB64KVPC",
+                    "UD7FEGEF8",
+                    "U02P5PUDENL",
+                    "U034X8927KL",
+                    "U027PSQ8ZUK",
+                    "U01A2EPV0BA",
+                    "U048RH7A2BY",
+                    "U03FWLKUN",
+                    "U05FLR73T2S",
+                    "U0273QC9Q13",
+                    "U027JMN1NUR",
+                    "U027C3PDVQC",
+                    "U1LF0P0LB",
+                    "UKPG594HH",
+                    "UA6R38XA8",
+                    "U01J6S6PP8E",
+                    "U01JHGNLXTP",
+                    "UDDJGP5CL"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51a022de-9d13-4012-b424-dbcc0ceed013",
+        "type": "message",
+        "text": "Thank you <@UD7FEGEF8> for pulling this together given the time pressure we had",
+        "user": "U03FVBQTR",
+        "ts": "1692614117.840979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+D5k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UD7FEGEF8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for pulling this together given the time pressure we had"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692614091.544689",
+        "parent_user_id": "U03FVBQTR",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UD7FEGEF8",
+                    "U027C3PDVQC",
+                    "U01JHGNLXTP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06099179-b902-4c02-964e-9b0dc739fa58",
+        "type": "message",
+        "text": "Thank you <@U02P5PUDENL> for managing the project, communication and arrangement of the training",
+        "user": "U03FVBQTR",
+        "ts": "1692614144.687319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02P5PUDENL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for managing the project, communication and arrangement of the training"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03FVBQTR",
+            "ts": "1692614162.000000"
+        },
+        "thread_ts": "1692614091.544689",
+        "parent_user_id": "U03FVBQTR",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02P5PUDENL",
+                    "UD7FEGEF8",
+                    "U01JHGNLXTP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be9bccb6-fa6d-4358-9fae-6747b6a00041",
+        "type": "message",
+        "text": "Thanks to <@UAWHVVB8X> who managed the bookings and logistics of the trainings.",
+        "user": "U03FVBQTR",
+        "ts": "1692614193.849359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+9tG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UAWHVVB8X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who managed the bookings and logistics of the trainings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692614091.544689",
+        "parent_user_id": "U03FVBQTR",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UAWHVVB8X",
+                    "UD7FEGEF8",
+                    "U01JHGNLXTP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "758b99d1-a865-47b1-a1be-6ff860772a46",
+        "type": "message",
+        "text": "Thanks to the whole team<@U03FWLKUN>, <@U05FLR73T2S>, <@U01A2EPV0BA>,  <@U048RH7A2BY>, <@U027JMN1NUR>, <@U0273QC9Q13> <@U027PSQ8ZUK> (i’m sorry about the accident thought :see_no_evil:).",
+        "user": "U03FVBQTR",
+        "ts": "1692614494.311309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pn4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks to the whole team"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03FWLKUN"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05FLR73T2S"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A2EPV0BA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U048RH7A2BY"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U027JMN1NUR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0273QC9Q13"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U027PSQ8ZUK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (i’m sorry about the accident thought "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692614091.544689",
+        "parent_user_id": "U03FVBQTR",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U027PSQ8ZUK",
+                    "U01A2EPV0BA",
+                    "U048RH7A2BY",
+                    "U03FWLKUN",
+                    "U05FLR73T2S",
+                    "U027JMN1NUR",
+                    "U02P5PUDENL",
+                    "UD7FEGEF8",
+                    "U01JHGNLXTP"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd5f3b23-6d33-4376-b58f-f5b4056f0126",
+        "type": "message",
+        "text": "btw, <@U027C3PDVQC>, Khaled El-Leithy &amp; <@UKPG594HH> had their own touches as well… Thank you guys",
+        "user": "U03FVBQTR",
+        "ts": "1692616955.252219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U027C3PDVQC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Khaled El-Leithy & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKPG594HH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " had their own touches as well… Thank you guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03FVM0K8",
+        "user_team": "T03FVM0K8",
+        "source_team": "T03FVM0K8",
+        "user_profile": {
+            "avatar_hash": "8fea588cf2f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-01-28\/3539674413_8fea588cf2f1390d3733_72.jpg",
+            "first_name": "Taher",
+            "real_name": "Taher El-Shafei",
+            "display_name": "taherelshafei",
+            "team": "T03FVM0K8",
+            "name": "taherelshafei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692614091.544689",
+        "parent_user_id": "U03FVBQTR",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UKPG594HH",
+                    "U027C3PDVQC",
+                    "UD7FEGEF8",
+                    "U01JHGNLXTP"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]
